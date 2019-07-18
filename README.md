@@ -1,4 +1,4 @@
-<h1>Python Code for Final Project in the ITP 115 Class
+<h1>Python Code for Final Project in the ITP 115 Class</h1>
 
 **Run** file is the main function simulating the restaurant
 
